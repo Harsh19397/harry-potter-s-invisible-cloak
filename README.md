@@ -1,6 +1,6 @@
 # Harry-potter's invisible cloak
 
-1. Install the 3 libraries by running the below commands:
+1. Install 3 libraries by running the below commands before you use this code:
             a. pip install numpy 
             b. pip install time
             c. pip install opencv-python
